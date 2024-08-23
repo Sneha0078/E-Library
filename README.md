@@ -3,7 +3,8 @@
 
 ## Vision
 
-[image](https://github.com/user-attachments/assets/31123a88-db26-42f7-ad6d-81f065e653eb)
+![image](https://github.com/user-attachments/assets/36ecca64-1d39-4c20-8295-182e066510b4)
+
 
 
 The E-Library Smart Contract is designed to create a decentralized platform where authors can publish their educational resources and students can access them securely. By leveraging blockchain technology, this platform ensures that authors are fairly rewarded for their work while maintaining the integrity and ownership of their content. The system offers discounts to students who frequently access resources, promoting educational growth at a lower cost.
