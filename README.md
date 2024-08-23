@@ -59,10 +59,3 @@ For more information or inquiries, please contact:
 
 ---
 
-This project is open-source and licensed under the MIT License. Contributions are welcome!
-```
-
-### Notes:
-- **Flowchart**: Uses the Mermaid syntax for the flowchart. If displaying on platforms that support Mermaid (like GitHub), the flowchart will render visually.
-- **Contract Address**: Replace `[Insert Contract Address Here]` with the actual address once deployed.
-- **Contact Details**: Replace placeholders with your actual contact information.
